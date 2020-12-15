@@ -1,4 +1,3 @@
-// import SanityBlockContent from "@sanity/block-content-to-react";
 import React, { useEffect, useState } from "react";
 import sanityClient from "../client.js";
 import japan from "../hua-thun-ho-t863gJ_L2ug-unsplash.jpg";
